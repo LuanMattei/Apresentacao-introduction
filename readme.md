@@ -1,14 +1,6 @@
-# hello-Word
+# hello-Word- L_Mattei- Luan.s.mattei@gmail.com
+Cancel changes
 Olá Humanos!, Hi humans! Hola,gente!!
-
-//English
-
-My name is Luan, I am 18 years old, Nowadays, I study Analysis and systems 
-develop at anima's college.In love for create and develop projects, since
-I was 17 I started learning python,but today I study C# and , in the
-future, I will learn Java Script.
-
-Coffe, coding, Raça negra's Lofi 😍
 
 //Portuguese
 
@@ -18,5 +10,14 @@ pelo PYthon. Atualmente me envolvendo com C#, porém,futuramente buscarei conhec
 em Java script. 
 
 Café, coding e Raça negra lofi 😍
+
+//English
+
+My name is Luan, I am 18 years old, Nowadays, I study Analysis and systems 
+develop at anima's college.In love for create and develop projects, since
+I was 17 I started learning python,but today I study C# and , in the
+future, I will learn Java Script.
+
+Coffe, coding, Raça negra's Lofi 😍
 
 L_Mattei- Luan.s.mattei@gmail.com
