@@ -19,5 +19,3 @@ I was 17 I started learning python,but today I study C# and , in the
 future, I will learn Java Script.
 
 Coffe, coding, Raça negra's Lofi 😍
-
-L_Mattei- Luan.s.mattei@gmail.com
